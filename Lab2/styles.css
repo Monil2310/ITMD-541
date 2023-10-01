@@ -15,7 +15,7 @@
 /* Flexbox Part 2 */
 
 #flex-section2 ul {
-
+ 
 	display: flex; 
 	justify-content: space-around; 
 	list-style: none; 
